@@ -20,32 +20,18 @@ Email : yumixu9789@gmail.com
     </td>
  </tr>
 </table>
-<div><br><br></div>
 
 # Develop Direction
-<table border="0">
- <tr>
-    <td>
-        <h1>Data Science</h1>
-        <h2>Deep Learning</h2>
-        <h3>Classification</h3>
-        <h3>Detection</h3>
-        <h3>Sequential Data Predict</h3>
-    </td>
-    <td>
-        <td><h1><br></h1></td>
-    </td>
-    <td>
-        <h1>GIS Application</h1>
-        <h3>Spatial analysis</h3>
-        <h3>Spatial data visualization</h3>
-        <h3><br></h3>
-        <h3><br></h3>
-    </td>
- </tr>
-</table>
+- Deep Learning
+    - Classification
+    - Detection
+    - Sequential Data Predict
 
-<div><br><br></div>
+- GIS Application
+    - Spatial analysis
+    - Spatial data visualization
+
+
 
 
 # Latest Repositories
