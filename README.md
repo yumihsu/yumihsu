@@ -34,11 +34,6 @@ Email : yumixu9789@gmail.com
     </td>
     <td>
         <td><h1><br></h1></td>
-        <td><h1><br></h1></td>
-        <td><h1><br></h1></td>
-        <td><h1><br></h1></td>
-        <td><h1><br></h1></td>
-        <td><h1><br></h1></td>
     </td>
     <td>
         <h1>GIS Application</h1>
