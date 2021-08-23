@@ -11,7 +11,7 @@ I'm an Artificial Intelligence engineer from Taipei,Taiwan.
 
 Keep Trying to improve my ability about AI.
 
-Also passionate about spatial data , Geographic Information System(Science) and backend develops.
+Also passionate about my major Geography, spatial data , Geographic Information System(Science) and backend develops.
 
 I'm seeking for  new opportunities .
     </td>
