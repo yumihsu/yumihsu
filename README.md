@@ -63,13 +63,19 @@ Email : yumixu9789@gmail.com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Frames
+- Data / Image
+- 
+    ![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy)
+    ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas)
+    ![opencv](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv)
+    
 - ML & DL
 
     ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras)
     ![Pytorch](https://img.shields.io/badge/Pytorch-000000?style=flat&logo=Pytorch)
     ![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=flat&logo=Tensorflow)
     ![sklearn](https://img.shields.io/badge/Scikit%20Learn-000000?style=flat&logo=scikit-learn)
-    ![opencv](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv)
+    
 
 - API
 
